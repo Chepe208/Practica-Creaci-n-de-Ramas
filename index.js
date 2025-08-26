@@ -1,1 +1,3 @@
-console.log("Calcular Propina");
+  function calculateTip(billAmount, tipPercentage) {
+    
+  }
